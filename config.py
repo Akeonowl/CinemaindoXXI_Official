@@ -61,7 +61,6 @@ BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
 USER_REPLY_TEXT = "❌Tolong jangan di chat yaa, bot ini cuma bisa digunakan untuk menonton film\n\nSilahkan kunjungi @CinemaindoXXI_Official untuk menonton, Terimakasih!!"
 
 ADMINS.append(OWNER_ID)
-ADMINS.append(6350416781)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
